@@ -131,9 +131,12 @@
 #### [Bánh tráng thịt heo Đại Lộc](https://www.facebook.com/QuanDaiLoc.97TrungNuVuong/)
 - Địa chỉ: 97 Trưng Nữ Vương
 
-#### [Bánh Bèo - Nậm & Lọc Huế](https://www.foody.vn/da-nang/quan-van-nguyen-nhu-hanh)
-- Địa chỉ: 59 Thanh Tịnh, Liên Chiểu, ĐN
-
+#### [Bánh Bèo - Nậm & Lọc Huế]
+- Quán Vân (https://www.foody.vn/da-nang/quan-van-nguyen-nhu-hanh)
++ Địa chỉ: 59 Thanh Tịnh, Liên Chiểu, ĐN
+- Quán Mô ri (https://www.facebook.com/profile.php?id=100042658586389)
++ Địa chỉ: 408/3 Trưng Nữ Vương
++ Quán mở từ 6h sáng - 8h tối
 
 #### [Chickpea Eatery - Vegan/Thuần Chay](https://www.facebook.com/chickpea.eatery)
 - Địa chỉ:
