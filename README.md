@@ -45,8 +45,8 @@
  - Mô tả:
    - chỉ bán sáng, giá 40-60k
    - đi tắm biển về mà vào làm tô bún này là hết xẩy :))
- - Bún bò Huế Lê Gia 372 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng
-  - Mô tả: giá 35-60k
+- Bún bò Huế Lê Gia 372 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng
+ - Mô tả: giá 35-60k
 ### Bún chả cá 109
 - Địa chỉ: [109 Nguyễn Chí Thanh, Hải Châu 1, Hải Châu](https://goo.gl/maps/QCTbgwgqLbUwUUFK6)
 - Giá: Trung bình 30k
