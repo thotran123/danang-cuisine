@@ -42,11 +42,11 @@
   
 #### Bún Bò Huế
 - Địa chỉ: Kiệt, 123 Nguyễn Thị Minh Khai, ĐN
- - Mô tả:
-   - chỉ bán sáng, giá 40-60k
-   - đi tắm biển về mà vào làm tô bún này là hết xẩy :))
+  - Mô tả:
+    - chỉ bán sáng, giá 40-60k
+    - đi tắm biển về mà vào làm tô bún này là hết xẩy :))
 - Bún bò Huế Lê Gia 372 Đống Đa, P. Thanh Bình, Quận Hải Châu, Đà Nẵng
- - Mô tả: giá 35-60k
+  - Mô tả: giá 35-60k
 ### Bún chả cá 109
 - Địa chỉ: [109 Nguyễn Chí Thanh, Hải Châu 1, Hải Châu](https://goo.gl/maps/QCTbgwgqLbUwUUFK6)
 - Giá: Trung bình 30k
@@ -117,8 +117,7 @@
 
 #### [Tiệm bánh An Lê](https://www.facebook.com/tiembanhanle)
 - Địa chỉ: 37 Trần Quốc Toản, ĐN
-- Mô tả:
-  - Có trên grab, shoppee, beamin
+- Mô tả: Có trên grab, shoppee, beamin
   
 ### <a name="food-an-vat"/> Ăn Vặt
 
@@ -136,7 +135,7 @@
 
 #### [Bánh ép Huế]
 - Quán bánh ép Huế (https://www.facebook.com/B%C3%A1nh-%C3%89p-Hu%E1%BA%BF-1466198767000974)
- - Địa chỉ: 39 Phạm Hồng Thái, Hải Châu 1, Hải Châu, Đà Nẵng 550000, Vietnam
+  - Địa chỉ: 39 Phạm Hồng Thái, Hải Châu 1, Hải Châu, Đà Nẵng 550000, Vietnam
  
 #### [Kem bơ]
 - Quán kem bơ cô vân
@@ -148,17 +147,17 @@
 
 #### [Bánh Bèo - Nậm & Lọc Huế]
 - Quán Vân (https://www.foody.vn/da-nang/quan-van-nguyen-nhu-hanh)
- - Địa chỉ: 59 Thanh Tịnh, Liên Chiểu, ĐN
+  - Địa chỉ: 59 Thanh Tịnh, Liên Chiểu, ĐN
 - Quán Mô ri (https://www.facebook.com/profile.php?id=100042658586389)
- - Địa chỉ: 408/3 Trưng Nữ Vương
- - Quán mở từ 6h sáng - 8h tối
+  - Địa chỉ: 408/3 Trưng Nữ Vương
+  - Quán mở từ 6h sáng - 8h tối
 - Bánh lọc măng Thiên Thủy (https://www.facebook.com/profile.php?id=100004885834813)
- - Địa chỉ: 21/34 An Thượng 24, My An, Ngũ Hành Sơn, Da Nang
+  - Địa chỉ: 21/34 An Thượng 24, My An, Ngũ Hành Sơn, Da Nang
  
 #### [Gỏi cá Nam Ô]
 - Quán Cô Hồng 
- - Địa chỉ: 118 Huỳnh Thúc Kháng, Nam Dương, Hải Châu, Đà Nẵng 550000, Vietnam
- - Giá cả: Hơi mắc, có quán nào xin suggest thêm
+  - Địa chỉ: 118 Huỳnh Thúc Kháng, Nam Dương, Hải Châu, Đà Nẵng 550000, Vietnam
+  - Giá cả: Hơi mắc, có quán nào xin suggest thêm
 
 #### [Chickpea Eatery - Vegan/Thuần Chay](https://www.facebook.com/chickpea.eatery)
 - Địa chỉ:
